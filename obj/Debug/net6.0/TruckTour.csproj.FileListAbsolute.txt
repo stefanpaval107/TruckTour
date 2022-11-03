@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\bin\Debug\net6.0\TruckTour.exe
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\bin\Debug\net6.0\TruckTour.deps.json
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\bin\Debug\net6.0\TruckTour.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\bin\Debug\net6.0\TruckTour.dll
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\bin\Debug\net6.0\TruckTour.pdb
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.dll
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\refint\TruckTour.dll
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.pdb
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\TruckTour.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\csharp_learning\TruckTour\obj\Debug\net6.0\ref\TruckTour.dll
